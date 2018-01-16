@@ -3,6 +3,6 @@ server:
 
 info:
   app:
-    name: Gift Card REST
+    name: Gift Card Service
 
 secret-message: cipher not working unless install dependencies
