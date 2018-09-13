@@ -3,6 +3,6 @@ server:
 
 info:
   app:
-    name: GC Service
+    name: GC Service -
 
 secret-message: '{cipher}FKSAJDFGYOS8F7GLHAKERGFHLSAJ'
