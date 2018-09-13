@@ -3,6 +3,6 @@ server:
 
 info:
   app:
-    name: Gift Card Service
+    name: GC Service
 
 secret-message: '{cipher}FKSAJDFGYOS8F7GLHAKERGFHLSAJ'
